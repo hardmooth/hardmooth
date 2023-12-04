@@ -7,8 +7,15 @@ Hi, I’m @hardmooth
 
 ## by day
 
-I am a developer for quality assurance.<br>
-Experience in coding python, C/C++, R, LaTeX, Lilypond, perl, bash, qt
+I am Head of Software Quality Assurance and Head of Tech Writing with a strong background as a QA engineer / developer for quality assurance.<br>
+
+Expertise in
+
+* coding Python, C/C++, R, LaTeX, Lilypond, perl, bash, qt
+* QA Strategies (including Testing, Processes), Automation Technologies (Jenkins, Azure DevOps), Static Code Analysis
+* Software Development Tooling - concepts, partial administration, integration, expert usage (Git, Github, Jira, Confluence, Subversion, Redmine)
+
+I love to work in a team, enable and teach my peers.
 
 ## by night
 
